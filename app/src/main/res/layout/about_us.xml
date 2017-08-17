@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="Acerca de Nosotros"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:linksClickable="true"
+        android:layout_weight="0.30"
+        android:text="\nShibuyaXpress es un grupo de desarrolladores novatos de TECSUP dedicados a la programación Web, Movil y otras áreas.\n\n Nuestro grupo se compone de 4 integrantes:\n- Jorge Flores\n- Paul Pacheco\n- Linder Hassinger \n- Victor Saico\n\nEspero que les agrade nuestra primera aplicación desarrollada bajo Android (proximamente IOS) y nos apoyen con comentarios positivos para seguir desarrollando mas aplicaciones que faciliten la vida del usuario.\n\n
+Agradecemos a TECSUP por darnos las herramientas necesarias para poder realizar este tipo de contenido y estar formandonos como profesionales y personas de bien.\n\n
+Atte.\n
+El equipo de ShibuyaXpress"
+        android:textAppearance="@style/TextAppearance.AppCompat" />
+
+</LinearLayout>

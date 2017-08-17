@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TECSUP EB</string>
+    <string name="title_activity_home">Tecsup</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_eventos">Eventos</string>
+    <string name="title_activity_beneficios">beneficios</string>
+    <string name="title_activity_entradas">Entradas QR</string>
+    <string name="title_activity_entradas_qr">Entradas</string>
+</resources>

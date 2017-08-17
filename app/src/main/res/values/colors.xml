@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="tecsupFrame">#0394d4</color>
+    <color name="accentcloro">#59dcdc</color>
+    <color name="fondo">#EEFFFF</color>
+    <color name="textoPrimario">#000000</color>
+    <color name="fondoTab">#0595d4</color>
+    <color name="fondobacktab">#125688</color>
+    <color name="textoTabs">#cfdde7</color>
+    <color name="fondobones">#edeff2</color>
+    <color name="mashiro">#ffffff</color>
+
+</resources>

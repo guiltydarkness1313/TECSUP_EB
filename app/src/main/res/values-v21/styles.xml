@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TecsupEB" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/tecsupFrame</item>
+        <item name="android:navigationBarColor">@color/tecsupFrame</item>
+        <item name="android:textColorPrimary">@color/textoPrimario</item>
+        <item name="colorAccent">@color/accentcloro</item>
+        <item name="android:colorBackground">@color/mashiro</item>
+        <item name="android:colorForeground">@color/accentcloro</item>
+        <item name="android:statusBarColor">@color/tecsupFrame</item>
+        <item name="colorPrimaryDark">@color/cardview_dark_background</item>
+        <item name="android:windowBackground">@color/fondobones</item>
+    </style>
+</resources>

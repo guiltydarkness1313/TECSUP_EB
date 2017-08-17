@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "387196068546",
+    "firebase_url": "https://tecsup-eb.firebaseio.com",
+    "project_id": "tecsup-eb",
+    "storage_bucket": "tecsup-eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387196068546:android:7efc94d12592c6a8",
+        "android_client_info": {
+          "package_name": "com.shibuyaxpress.proyecto5marzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387196068546-ikuskaqnkm5k33g1737aq56qmqu1e8vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shibuyaxpress.proyecto5marzo",
+            "certificate_hash": "fe2451167c4ecdc45092b307766000291a266e37"
+          }
+        },
+        {
+          "client_id": "387196068546-sknelshts0g16v6at8k5ndqg52fj5j73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shibuyaxpress.proyecto5marzo",
+            "certificate_hash": "c4833e80c8cd0d64791caf4a64b2745ca04331a8"
+          }
+        },
+        {
+          "client_id": "387196068546-nlpi3v5677pbh7k5pqpae9r158ein959.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shibuyaxpress.proyecto5marzo",
+            "certificate_hash": "d2a4d69f8da7425c44649ea29fa17c4756a25c5e"
+          }
+        },
+        {
+          "client_id": "387196068546-supcaq9h3ghfr5n2qtfgk1e3bcqceqre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANU_vDu7pymmbwjd0XV2s7QpiBsZYvKpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387196068546-s3v4sbofrct7q37af9qsddj67kpvbto4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "linder.es.FinalTEB"
+              }
+            },
+            {
+              "client_id": "387196068546-supcaq9h3ghfr5n2qtfgk1e3bcqceqre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387196068546:android:b51b05bea622a6a4",
+        "android_client_info": {
+          "package_name": "com.shibuyaxpress.tecsup_eb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387196068546-db36p9vdkd24ihpqivrrdb3jpsv8pbd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shibuyaxpress.tecsup_eb",
+            "certificate_hash": "c4833e80c8cd0d64791caf4a64b2745ca04331a8"
+          }
+        },
+        {
+          "client_id": "387196068546-supcaq9h3ghfr5n2qtfgk1e3bcqceqre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANU_vDu7pymmbwjd0XV2s7QpiBsZYvKpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387196068546-s3v4sbofrct7q37af9qsddj67kpvbto4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "linder.es.FinalTEB"
+              }
+            },
+            {
+              "client_id": "387196068546-supcaq9h3ghfr5n2qtfgk1e3bcqceqre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

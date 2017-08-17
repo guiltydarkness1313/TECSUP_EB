@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.shibuyaxpress.tecsup_eb">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/TecsupEB"
+        tools:replace="android:icon">
+        <activity
+            android:name=".activities.SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.login"
+            android:theme="@style/TecsupEB" />
+        <activity
+            android:name=".activities.home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/TecsupEB" />
+        <activity
+            android:name=".activities.eventos"
+            android:label="@string/title_activity_eventos"
+            android:theme="@style/TecsupEB" />
+        <activity android:name=".activities.ActionVer" />
+        <activity
+            android:name=".activities.beneficios"
+            android:label="@string/title_activity_beneficios"
+            android:theme="@style/TecsupEB" />
+        <activity android:name=".activities.VerBeneficio"/>
+        <activity android:name=".activities.aboutUs"/>
+        <activity
+            android:name=".activities.EntradasQR"
+            android:label="@string/title_activity_entradas_qr"
+            android:theme="@style/TecsupEB"/>
+    </application>
+
+</manifest>

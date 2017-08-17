@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Categorias">
+        <menu>
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Charlas" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Entretenimiento" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Informativo" />
+        </menu>
+        </item>
+    </group>
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartir" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Regresar al menu" />
+        </menu>
+    </item>
+
+</menu>
